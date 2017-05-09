@@ -1,3 +1,3 @@
 # Ray
 
-A simple distribuited in-memory cache built on top of akka cluster
+A simple distributed in-memory cache built on top of akka cluster
